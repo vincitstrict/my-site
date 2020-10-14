@@ -1,0 +1,17 @@
+p {
+  color: orange;
+}
+.one {
+  color: brown;
+  background: pink;
+  min-height: 20px;
+}
+
+.two {
+  color: red;
+  font-weight: bold;
+  background-color: orange;
+  width: 50%;
+  padding-top: 1px;
+  margin-top: 50px;
+}
